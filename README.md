@@ -124,7 +124,7 @@ LICENSE
 Clone the repository:
 
 ```bash
-https://meerhamzahotak.github.io/Meer-Hamza-Hotak-Full-Stack-Developer-Portfolio/
+git https://meerhamzahotak.github.io/Meer-Hamza-Hotak-Full-Stack-Developer-Portfolio/
 ```
 
 Navigate to the project folder:
