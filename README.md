@@ -1,4 +1,4 @@
-# Modern Developer Portfolio
+# MeerHamza Hotak | Modern Portfolio
 
 A modern, responsive, and professionally designed portfolio website built using HTML5, CSS3, and JavaScript. This project serves as a personal portfolio to showcase my skills, projects, services, certifications, and development journey as a Full Stack Software and Web Developer.
 
@@ -8,7 +8,7 @@ The website features a clean user interface, responsive layouts, interactive ele
 
 ## Live Demo
 
-Add your deployment link here.
+https://meerhamzahotak.github.io/Meer-Hamza-Hotak-Full-Stack-Developer-Portfolio/
 
 ---
 
@@ -124,13 +124,13 @@ LICENSE
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+https://meerhamzahotak.github.io/Meer-Hamza-Hotak-Full-Stack-Developer-Portfolio/
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd your-repository-name
+Meer-Hamza-Hotak-Full-Stack-Developer-Portfolio
 ```
 
 Open the project:
